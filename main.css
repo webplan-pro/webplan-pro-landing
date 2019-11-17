@@ -104,5 +104,5 @@ p {
   > div
   > div.Window__WindowComponent-sc-17wvysh-1.jCjjaY
   > div:nth-child(5) {
-  display: none;
+  display: none !important;
 }
