@@ -99,3 +99,10 @@ p {
     transform: scale(0.5) rotateY(-180deg) translateZ(1px);
   }
 }
+
+#eapps-whatsapp-chat-2b8e2fa4-01ea-4442-85ed-ef8decbbadc3
+  > div
+  > div.Window__WindowComponent-sc-17wvysh-1.jCjjaY
+  > div:nth-child(5) {
+  display: none;
+}
