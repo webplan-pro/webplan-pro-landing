@@ -16,7 +16,6 @@ main {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  height: 98vh;
 }
 .container {
   margin: 1vh;
